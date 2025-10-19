@@ -1,0 +1,14 @@
+{
+  "name": "Anilibria Source",
+  "identifier": "com.anilibria.source",
+  "marketplaceId": "com.anilibria.source.market",
+  "apps": [
+    {
+      "name": "Anilibria iOS",
+      "bundleIdentifier": "com.anilibria.ios",
+      "version": "1.0.6",
+      "downloadURL": "https://github.com/anilibria/anilibria-ios/releases/download/1.0.6/Anilibria.ipa",
+      "developerName": "Anilibria Team"
+    }
+  ]
+}
