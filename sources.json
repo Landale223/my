@@ -6,19 +6,8 @@
     {
       "name": "Anilibria iOS",
       "bundleIdentifier": "com.anilibria.ios",
-      "developerName": "Anilibria Team",
       "version": "1.0.6",
-      "versionDate": "2025-01-12T00:00:00Z",
-      "versionDescription": "Исправления ошибок и улучшения производительности.",
-      "downloadURL": "https://github.com/anilibria/anilibria-ios/releases/download/1.0.6/Anilibria.ipa",
-      "localizedDescription": "Неофициальное приложение Anilibria для iOS, созданное сообществом. Позволяет смотреть аниме с русской озвучкой и синхронизироваться с сайтом Anilibria.",
-      "iconURL": "https://anilibria.app/assets/img/favicon.png",
-      "tintColor": "FF6600",
-      "screenshotURLs": [
-        "https://anilibria.app/assets/img/screens/1.png",
-        "https://anilibria.app/assets/img/screens/2.png"
-      ],
-      "size": 25600000
+      "downloadURL": "https://github.com/anilibria/anilibria-ios/releases/download/1.0.6/Anilibria.ipa"
     }
   ]
 }
