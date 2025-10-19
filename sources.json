@@ -1,6 +1,7 @@
 {
   "name": "Anilibria Source",
   "identifier": "com.anilibria.source",
+  "marketplaceId": "com.anilibria.source.market",
   "apps": [
     {
       "name": "Anilibria iOS",
